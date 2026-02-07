@@ -1,0 +1,6 @@
+id_cliente,nome,renda_mensal,score_credito,limite_credito,id_emprestimo,valor_emprestimo,dias_atraso,inadimplente,score_ajustado,nivel_risco
+1,Henrique Silva,5000.0,720,15000.0,1,8000.0,,0,720,Baixo
+2,Thiago Costa,3200.0,610,9000.0,2,6000.0,,0,610,Médio
+3,Davi Pereira,2800.0,480,6000.0,3,5000.0,,0,480,Alto
+4,Daniela Rocha,8000.0,780,25000.0,4,20000.0,,0,780,Baixo
+5,Rodrigo Lima,4000.0,530,10000.0,5,7000.0,,0,530,Médio
